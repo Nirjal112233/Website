@@ -1,6 +1,6 @@
 # AI Website
 
-![AI Website](ai_image.jpg)
+![https://nirjal112233.github.io/Website/](ai0.jpg)
 
 Welcome to the AI Website! Explore the fascinating world of Artificial Intelligence and discover its applications and the exciting future it holds.
 
